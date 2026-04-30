@@ -1,0 +1,16 @@
+Introduction to Natural Language Processing
+Natural Language Processing (NLP) is a subfield of Artificial Intelligence that focuses on the interaction between computers and human language. The goal of NLP is to enable machines to understand, interpret, and generate human language in a valuable way.
+NLP combines computational linguistics with machine learning and deep learning techniques. It is widely used in applications such as chatbots, machine translation, sentiment analysis, and information retrieval systems.
+
+History of NLP
+The history of NLP began in the 1950s with early rule-based systems. One of the first examples was the Georgetown-IBM experiment in , which demonstrated automatic translation of Russian sentences into English.
+In the, statistical methods became popular. Researchers started using large corpora of text to train models. In recent years, deep learning approaches such as transformers have significantly improved NLP performance.
+
+Key Components of NLP
+NLP systems typically involve several important components:
+Tokenization: Breaking text into words or sentences 
+Stopword Removal: Removing common words like the, is, and 
+ Stemming and Lemmatization: Reducing words to their root form 
+ Part-of-Speech Tagging: Identifying grammatical roles 
+ Named Entity Recognition (NER): Detecting names, locations, etc. 
+
